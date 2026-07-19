@@ -4,7 +4,7 @@
 
 ### Full-Stack Engineer | Dhaka, Bangladesh
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=NodeJs;React;Nextjs;Express;Postgres;Prisma;Git;Docker;TypeScript;Tailwindcss;MongoDB;Postman;JavaScript;.NET;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=600&color=58A6FF&center=true&vCenter=true&width=435&lines=NodeJs;React;Nextjs;Express;Postgres;Prisma;Git;Docker;TypeScript;Tailwindcss;MongoDB;Postman;JavaScript;.NET;)](https://git.io/typing-svg)
 
 I am a Full Stack Engineer with a foundation of lifelong curiosity and commercial experience, passionate about designing clean, performant, and scalable web applications. I have a demonstrated history of using TypeScript, React, Next.js, and Node.js ecosystems along with AI-powered workflows to quickly develop solid features. I am skilled in building robust system architectures with Agile methodologies and clean code principles for increased team velocity and code maintainability.
 
