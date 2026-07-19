@@ -48,9 +48,9 @@ I am a Full Stack Engineer with a foundation of lifelong curiosity and commercia
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ajmainfayek733&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ajmainfayek733&theme=github-dark-blue&hide_border=true&background=0d1117)](https://git.io/streak-stats)
+![](https://github-readme-stats.shion.dev/api?username=ajmainfayek733&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=ajmainfayek733&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=ajmainfayek733&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 </div>
 
